@@ -1,0 +1,197 @@
+sr_no,Country,Continent,Dominant Color,Red,Saffron,Yellow,Green,Blue,LiBlue,Black,White,Distinct Colors,Flag has
+1,Andorra,Europe,Red,35,1,26,0,32,0,0,4,5,Vertical
+2,United Arab Emirates,Asia,Green,24,0,0,25,0,0,25,24,4,Horizontal
+3,Afghanistan,Asia,Green,28,1,0,33,0,0,33,3,5,Vertical Country Text
+4,Antigua Barbuda,North America,Red,50,0,5,0,0,10,25,7,5,
+5,Albania,Europe,Red,87,0,0,0,0,0,12,0,2,Bird
+6,Armenia,Asia,Red,33,33,0,0,33,0,0,0,3,Horizontal
+7,Angola,Africa,Red,48,0,4,0,0,0,46,0,3,"Weapon, Agriculture Horizontal"
+8,Argentina,South America,LiBlue,0,2,0,0,0,66,0,31,3,Sun Horizontal
+9,Austria,Europe,Red,66,0,0,0,0,0,0,33,2,Horizontal
+10,Australia,Oceania,Blue,9,0,0,0,79,0,0,11,3,Stars Union Flag
+11,Azerbaijan,Asia,Green,31,0,0,33,0,33,0,1,4,"Stars, Crescent Horizontal"
+12,Bosnia Herzegovina,Europe,Blue,0,0,25,0,70,0,0,4,3,
+13,Barbados,North America,Blue,0,0,29,0,66,0,3,0,3,Emblem Vertical
+14,Bangladesh,Asia,Green,20,0,0,79,0,0,0,0,2,Sun Circle
+15,Belgium,Europe,Red,33,0,33,0,0,0,33,0,3,Vertical
+16,Burkina Faso,Africa,Red,49,0,2,48,0,0,0,0,3,Horizontal
+17,Bulgaria,Europe,Red,33,0,0,33,0,0,0,33,3,Horizontal
+18,Bahrain,Asia,Red,67,0,0,0,0,0,0,32,2,
+19,Burundi,Africa,Green,30,0,0,34,0,0,0,34,3,Stars Diagonal Cross
+20,Benin,Africa,Green,30,0,29,40,0,0,0,0,3,Horizontal
+21,Brunei Darussalam,Asia,Yellow,6,0,54,0,0,0,17,21,4,
+22,Bolivia,South America,Red,33,0,33,33,0,0,0,0,3,Horizontal
+23,Brazil,South America,Green,0,0,17,68,12,0,0,1,4,"Stars, Circle Mottos Text"
+24,Bahamas,North America,LiBlue,0,0,21,0,0,57,21,0,3,Triangle Horizontal
+25,Bhutan,Asia,Yellow,41,1,43,0,0,0,0,14,4,Animal
+26,Botswana,Africa,LiBlue,0,0,0,0,0,74,16,8,3,Horizontal
+27,Belarus,Europe,Red,64,0,0,29,0,0,0,6,3,
+28,Belize,North America,Blue,17,0,0,5,54,0,1,21,5,
+29,Canada,North America,Red,63,0,0,0,0,0,0,36,2,Plant Vertical
+30,Congo,Africa,LiBlue,20,0,12,0,0,67,0,0,3,
+31,Central African Rep,Africa,Yellow,16,0,21,20,19,0,0,20,5,
+32,Congo,Africa,Red,33,0,33,33,0,0,0,0,3,
+33,Switzerland,Europe,Red,77,0,0,0,0,0,0,22,2,Cross
+34,Cote d Ivoire,Africa,Saffron,0,33,0,33,0,0,0,33,3,
+35,Chile,South America,Red,50,0,0,0,15,0,0,34,3,Stars
+36,Cameroon,Africa,Yellow,31,0,34,33,0,0,0,0,3,Stars Vertical
+37,China,Asia,Red,97,0,2,0,0,0,0,0,2,Stars
+38,Colombia,South America,Yellow,25,0,50,0,24,0,0,0,3,Horizontal
+39,Costa Rica,North America,Red,33,0,0,0,33,0,0,33,3,Landscape Horizontal
+40,Cuba,North America,Blue,20,0,0,0,48,0,0,30,3,"Stars, Triangle Horizontal"
+41,Cabo Verde,Africa,Blue,8,0,1,0,74,0,0,16,4,
+42,Cyprus,Asia,White,0,6,0,2,0,0,0,90,3,Plant
+43,Czech Republic,Europe,Red,37,0,0,0,25,0,0,37,3,Triangle Horizontal
+44,Germany,Europe,Red,33,0,33,0,0,0,33,0,3,Horizontal
+45,Djibouti,Africa,Green,0,2,0,35,0,35,0,28,4,Triangle Horizontal
+46,Denmark,Europe,Red,76,0,0,0,0,0,0,23,2,Cross
+47,Dominica,North America,Green,8,0,8,66,0,0,8,8,5,Bird
+48,Dominican,North America,Red,33,0,0,2,33,0,0,30,4,
+49,Algeria,Africa,White,6,0,0,46,0,0,0,47,3,Crescent Vertical
+50,Ecuador,South America,Yellow,26,1,47,1,22,0,1,0,6,Bird Horizontal
+51,Estonia,Europe,LiBlue,0,0,0,0,0,33,33,33,3,Horizontal
+52,Egypt,Africa,Red,33,0,1,0,0,0,33,31,4,Bird Horizontal Country Text
+53,Western Sahara,Africa,Green,17,0,0,29,0,0,29,22,4,
+54,Eritrea,Africa,Red,44,0,5,24,0,24,0,0,4,Plant Triangle Diagonal
+55,Spain,Europe,Red,53,1,44,0,0,0,0,1,4,"Landscape, Crown Horizontal Mottos Text"
+56,Ethiopia,Africa,Red,32,0,26,32,0,8,0,0,4,Horizontal
+57,Finland,Europe,White,0,0,0,0,39,0,0,60,2,Cross
+58,Fiji,Oceania,LiBlue,14,0,0,0,7,66,0,11,4,Animal Union Flag
+59,Micronesia,Oceania,LiBlue,0,0,0,0,0,97,0,2,2,Stars
+60,France,Europe,Red,33,0,0,0,33,0,0,33,3,Vertical
+61,Gabon,Africa,Yellow,0,0,33,33,0,33,0,0,3,Horizontal
+62,United Kingdom,Europe,Red,37,0,0,0,28,0,0,33,3,Cross
+63,Grenada,North America,Red,40,0,31,28,0,0,0,0,3,Plant
+64,Georgia,Asia,White,35,0,0,0,0,0,0,64,2,Cross
+65,Ghana,Africa,Red,33,0,30,33,0,0,2,0,4,Stars Horizontal
+66,Gambia,Africa,Red,33,0,0,33,22,0,0,11,4,Horizontal
+67,Guinea,Africa,Red,33,0,33,33,0,0,0,0,3,Vertical
+68,Equatorial Guinea,Africa,Red,30,0,0,30,0,16,0,22,4,Triangle Horizontal
+69,Greece,Europe,Blue,0,0,0,0,56,0,0,43,2,Horizontal Cross
+70,Guatemala,North America,LiBlue,0,1,0,1,0,70,0,28,4,"Bird, Weapon Vertical"
+71,Guinea-Bissau,Africa,Yellow,31,0,33,33,0,0,1,0,4,Horizontal
+72,Guyana,South America,Green,19,0,16,49,0,0,5,7,5,Triangle Diagonal
+73,Honduras,North America,LiBlue,0,0,0,0,0,67,0,32,2,Stars Horizontal
+74,Croatia,Europe,Red,35,0,0,0,33,1,0,30,4,Crown Horizontal
+75,Haiti,North America,Blue,47,0,0,1,48,0,0,2,4,Weapon Horizontal
+76,Hungary,Europe,Red,33,0,0,33,0,0,0,33,3,Horizontal
+77,Indonesia,Asia,Red,50,0,0,0,0,0,0,50,2,Horizontal
+78,Ireland,Europe,Saffron,0,33,0,33,0,0,0,33,3,Vertical
+79,Israel,Asia,White,0,0,0,0,0,35,0,64,2,Stars Horizontal
+80,India,Asia,Saffron,0,33,0,33,2,0,0,31,4,Emblem Circle Horizontal
+81,Iraq,Asia,White,31,0,0,2,0,0,32,33,4,Horizontal Mottos Text
+82,Iran,Asia,White,31,0,0,29,0,0,0,38,3,Emblem Horizontal Mottos Text
+83,Iceland,Europe,Blue,18,0,0,0,65,0,0,16,3,Cross
+84,Italy,Europe,Red,33,0,0,33,0,0,0,33,3,Vertical
+85,Jamaica,North America,Yellow,0,0,33,33,0,0,32,0,3,Triangle Diagonal Cross
+86,Jordan,Asia,Green,24,0,0,28,0,0,27,19,4,"Stars, Triangle Horizontal"
+87,Japan,Asia,White,18,0,0,0,0,0,0,81,2,Sun Circle
+88,Kenya,Africa,Red,30,0,0,28,0,0,30,10,4,Weapon Horizontal
+89,Kyrgyzstan,Asia,Red,92,0,6,0,0,0,0,0,2,Emblem
+90,Cambodia,Asia,Blue,37,0,0,0,50,0,1,11,4,Landscape Horizontal
+91,Kiribati,Oceania,Red,46,0,5,0,26,0,0,21,4,"Sun, Bird"
+92,Comoros,Africa,Yellow,15,0,21,21,0,21,0,18,5,"Crescent, Triangle"
+93,Saint Kitts,North America,Black,28,0,11,28,0,0,29,2,5,
+94,South Korea,Asia,Red,55,0,0,0,33,0,0,10,3,Emblem Circle
+95,North Korea,Asia,White,6,0,0,0,6,0,7,79,4,"Stars, Circle Horizontal"
+96,Kosovo,Europe,Blue,0,0,5,0,91,0,0,2,3,Stars
+97,Kuwait,Asia,Red,29,0,0,29,0,0,16,24,4,Horizontal
+98,Kazakhstan,Asia,LiBlue,0,0,8,0,0,91,0,0,2,"Sun, Bird"
+99,Laos,Asia,Red,50,0,0,0,41,0,0,8,3,Circle Horizontal
+100,Lebanon,Asia,Saffron,0,50,0,6,0,0,0,43,3,Plant Horizontal
+101,Saint Lucia,North America,Blue,0,0,6,0,86,0,3,3,4,Triangle
+102,Liechtenstein,Europe,Red,50,0,1,0,46,0,1,0,4,
+103,Sri Lanka,Asia,Yellow,35,14,37,13,0,0,0,0,4,Animal
+104,Liberia,Africa,Red,47,0,0,0,9,0,0,42,3,Stars Horizontal
+105,Lesotho,Africa,White,0,0,0,30,29,0,3,36,4,Emblem Horizontal
+106,Lithuania,Europe,Red,33,0,33,33,0,0,0,0,3,Horizontal
+107,Luxembourg,Europe,Red,33,0,0,0,0,33,0,33,3,Horizontal
+108,Latvia,Europe,Red,80,0,0,0,0,0,0,20,2,Horizontal
+109,Libya,Africa,Black,25,0,0,25,0,0,48,1,4,Crescent Horizontal
+110,Morocco,Africa,Red,95,0,0,4,0,0,0,0,2,Stars
+111,Monaco,Europe,Red,50,0,0,0,0,0,0,50,2,Horizontal
+112,Moldova,Europe,Red,36,0,27,0,33,0,1,0,4,Bird Vertical
+113,Montenegro,Europe,Red,76,21,0,1,0,1,0,0,4,"Bird, Crown"
+114,Madagascar,Africa,Red,33,0,0,33,0,0,0,33,3,Horizontal
+115,Marshall Islands,Oceania,Blue,0,10,0,0,74,0,0,14,3,Stars Diagonal
+116,Macedonia,Europe,Red,70,0,30,0,0,0,0,0,2,Sun Circle
+117,Mali,Africa,Red,33,0,33,33,0,0,0,0,3,Vertical
+118,Myanmar,Asia,Red,78,0,0,0,17,0,0,3,3,
+119,Mongolia,Asia,Red,60,0,6,0,0,33,0,0,3,Vertical
+120,Mauritania,Africa,Green,0,0,5,94,0,0,0,0,2,Crescent
+121,Malta,Europe,Red,50,0,0,0,0,0,0,49,2,Vertical Mottos Text
+122,Mauritius,Africa,Red,25,0,24,25,24,0,0,0,4,Horizontal
+123,Maldives,Asia,Red,66,0,0,31,0,0,0,1,3,Crescent
+124,Malawi,Africa,Red,39,0,0,33,0,0,27,0,3,Sun Horizontal
+125,Mexico,North America,Red,34,1,0,34,0,0,0,29,4,Bird Vertical
+126,Malaysia,Asia,White,34,0,4,0,24,0,0,35,4,"Stars, Crescent Horizontal"
+127,Mozambique,Africa,Yellow,17,0,28,27,0,0,21,4,5,Weapon Triangle Horizontal
+128,Namibia,Africa,Green,27,0,2,32,29,0,0,8,5,Sun Diagonal
+129,Niger,Africa,Saffron,0,38,0,33,0,0,0,27,3,Sun Circle Horizontal
+130,Nigeria,Africa,Green,0,0,0,66,0,0,0,33,2,Vertical
+131,Nicaragua,North America,LiBlue,0,0,0,0,0,68,0,31,2,Landscape Horizontal Country Text
+132,Netherlands,Europe,Red,33,0,0,0,33,0,0,33,3,Horizontal
+133,Norway,Europe,Red,61,0,0,0,20,0,0,18,3,Cross
+134,Nepal,Asia,Red,35,0,0,0,13,0,0,7,3,"Sun Stars, Crescent"
+135,Nauru,Oceania,Blue,0,0,8,0,89,0,0,2,3,Stars Horizontal
+136,New Zealand,Oceania,Blue,10,0,0,0,80,0,0,9,3,Stars Union Flag
+137,Oman,Asia,Saffron,0,48,0,24,0,0,0,26,3,Weapon Horizontal
+138,Panama,North America,White,26,0,0,0,0,26,0,47,3,Stars
+139,Peru,South America,Red,66,0,0,0,0,0,0,33,2,Vertical
+140,Papua New Guinea,Oceania,Black,44,0,5,0,0,0,48,1,4,Bird Stars
+141,Philippines,Asia,Red,39,0,4,0,39,0,0,17,4,Sun Triangle Horizontal
+142,Pakistan,Asia,Green,0,0,0,68,0,0,0,31,2,Crescent
+143,Poland,Europe,Red,50,0,0,0,0,0,0,50,2,Horizontal
+144,Portugal,Europe,Red,59,0,3,35,0,0,0,2,4,Landscape
+145,Palau,Oceania,LiBlue,0,0,17,0,0,82,0,0,2,Sun Circle
+146,Paraguay,South America,Red,34,0,0,0,33,0,0,31,3,Plant Stars Horizontal Country Text
+147,Qatar,Asia,Red,67,0,0,0,0,0,0,32,2,
+148,Romania,Europe,Red,33,0,33,0,33,0,0,0,3,Vertical
+149,Serbia,Europe,Red,37,0,1,0,25,0,0,35,4,"Bird, Crown Horizontal"
+150,Russia,Europe,Red,33,0,0,0,33,0,0,33,3,Horizontal
+151,Rwanda,Africa,LiBlue,0,3,25,25,0,46,0,0,4,Sun Horizontal
+152,Saudi Arabia,Asia,Green,0,0,0,94,0,0,0,5,2,Weapon Mottos Text
+153,Solomon Islands,Oceania,Green,0,0,9,45,0,42,0,2,4,Diagonal
+154,Seychelles,Africa,Red,33,0,16,16,16,0,0,16,5,Diagonal
+155,Sudan,Africa,Red,29,0,0,16,0,0,29,23,4,Triangle Horizontal
+156,Sweden,Europe,Blue,0,0,29,0,70,0,0,0,2,Cross
+157,Singapore,Asia,White,46,0,0,0,0,0,0,53,2,"Stars, Crescent Horizontal"
+158,Slovenia,Europe,Red,33,0,0,0,0,33,0,32,3,Landscape Horizontal
+159,Slovakia,Europe,Red,38,0,0,0,27,0,0,34,3,Landscape Horizontal
+160,Sierra Leone,Africa,Green,0,0,0,33,0,33,0,33,3,Horizontal
+161,San Marino,Europe,White,0,0,2,3,0,45,0,47,4,"Landscape, Crown Horizontal Mottos Text"
+162,Senegal,Africa,Green,33,0,31,35,0,0,0,0,3,Stars Vertical
+163,Somalia,Africa,LiBlue,0,0,0,0,0,97,0,2,2,Stars
+164,Suriname,South America,Green,36,0,3,39,0,0,0,20,4,Horizontal
+165,Sao Tome,Africa,Green,12,0,33,52,0,0,1,0,4,
+166,El Salvador,North America,Blue,0,0,0,0,67,0,0,32,2,Landscape Horizontal Country Text
+167,Syrian Arab,Asia,Red,33,0,0,1,0,0,33,31,4,
+168,Swaziland,Africa,LiBlue,33,1,14,0,0,37,7,6,6,Weapon Horizontal
+169,Chad,Africa,Red,33,0,33,0,33,0,0,0,3,Vertical
+170,Togo,Africa,Green,19,0,32,45,0,0,0,2,4,Horizontal
+171,Thailand,Asia,Red,33,0,0,0,33,0,0,33,3,Horizontal
+172,Tajikistan,Asia,White,28,0,1,28,0,0,0,41,4,Stars Horizontal
+173,Timor-Leste,Asia,Red,75,0,8,0,0,0,14,1,4,Triangle
+174,Turkmenistan,Asia,Green,12,2,0,82,0,0,0,1,4,Crescent
+175,Tunisia,Africa,Red,90,0,0,0,0,0,0,9,2,"Crescent, Circle"
+176,Tonga,Oceania,Red,83,0,0,0,0,0,0,16,2,Cross
+177,Turkey,Asia,Red,94,0,0,0,0,0,0,5,2,Crescent
+178,Trinidad and Tobago,North America,Red,69,0,0,0,0,0,20,10,3,Diagonal
+179,Tuvalu,Oceania,LiBlue,9,0,4,0,7,70,0,8,5,Union Flag
+180,Taiwan,Asia,Red,75,0,0,0,21,0,0,3,3,
+181,Tanzania,Africa,Green,0,0,12,29,0,29,29,0,4,Diagonal
+182,Ukraine,Europe,Yellow,0,0,50,0,0,49,0,0,2,Horizontal
+183,Uganda,Africa,Yellow,31,0,33,0,0,0,31,3,4,Bird Circle Horizontal
+184,United States,North America,Red,41,0,0,0,18,0,0,39,3,Stars Horizontal
+185,Uruguay,South America,White,0,0,3,0,35,0,1,58,4,Sun Horizontal
+186,Uzbekistan,Asia,White,4,0,0,32,0,30,0,33,4,Crescent Horizontal
+187,Vatican City,Europe,Yellow,0,1,52,0,0,0,0,46,3,Vertical
+188,Saint Vincent,North America,Yellow,0,0,44,30,0,24,0,0,3,
+189,Venezuela,South America,Red,33,0,33,0,32,0,0,1,4,Horizontal
+190,Viet Nam,Asia,Red,91,0,8,0,0,0,0,0,2,
+191,Vanuatu,Oceania,Red,32,0,9,31,0,0,26,0,4,Triangle Diagonal
+192,Samoa,Oceania,Red,74,0,0,0,24,0,0,0,2,Stars
+193,Yemen,Asia,Red,33,0,0,0,0,0,33,33,3,Horizontal
+194,South Africa,Africa,Green,21,0,5,31,21,0,8,12,6,Triangle Diagonal
+195,Zambia,Africa,Green,8,9,0,74,0,0,7,0,4,Bird
+196,Zimbabwe,Africa,Yellow,22,0,26,26,0,0,11,11,5,Bird Triangle Horizontal
