@@ -4,3 +4,5 @@ I wrote a blog highlighting my key takeaways about the challenge [here](https://
 
 
 ![image](https://user-images.githubusercontent.com/76432265/208983858-42e6eef3-d9f9-4fdb-83cd-dbd8bf000b4c.png)
+
+Read about the challenge [here](https://30daymapchallenge.com/)
